@@ -1,0 +1,8 @@
+Feature,Importance
+pm25,0.877026
+pm25_lag1,0.046242
+pm25_rolling24,0.043535
+pm25_lag24,0.016690
+hour,0.012548
+day_of_week_num,0.003211
+month_num,0.000748
