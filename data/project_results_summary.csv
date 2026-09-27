@@ -1,0 +1,7 @@
+Area,Model,Task,Primary_Metric,Value
+Regression,Linear Regression,Next-hour PM2.5,RMSE,1.9043
+Regression,Random Forest,Next-hour PM2.5,RMSE,2.6703
+Regression,Gradient Boosting,Next-hour PM2.5,RMSE,2.0292
+Classification,Logistic Regression,Elevated pollution,F1,0.6441
+Classification,Random Forest,Elevated pollution,F1,0.6814
+Classification,Gradient Boosting,Elevated pollution,F1,0.7626
